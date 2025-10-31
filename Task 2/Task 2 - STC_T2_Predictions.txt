@@ -1,8 +1,0 @@
-https://towardsdatascience.com/using-machine-learning-to-predict-customers-next-purchase-day-7895ad49b4db
-
-
-
-
-
-
-https://towardsdatascience.com/build-your-first-machine-learning-model-with-zero-configuration-exploring-google-colab-5cc7263cfe28
