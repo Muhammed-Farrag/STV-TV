@@ -1,0 +1,7 @@
+- Columns: rating count, avr rate, 
+	
+Tasks:
+- Watch duration to decide --> Likes/Dislikes.
+- Features and Demographic, Content Based and Collaborative filtering.
+- Recommendation System then display the most recommended.
+- Display the most 5 recommended programs for the users who watched 'Moana'.
